@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <img width="488" height="371" alt="image" src="https://github.com/user-attachments/assets/463a9c16-6d6b-4052-8447-080328435690" />
-  ![Download (1)](https://github.com/user-attachments/assets/ce6f23f5-00d1-49c1-8c2b-4f0186eb1756)
 </p>
 
+<p align="center">
+  ![Download (1)](https://github.com/user-attachments/assets/ce6f23f5-00d1-49c1-8c2b-4f0186eb1756)
+</p>
