@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 <p align="center">
   <img width="485" height="448" alt="image" src="https://github.com/user-attachments/assets/b859e429-452d-46f6-90bc-8d55af4f727b" />
 </p>
+
 <p align="right>Trích dẫn từ 1 anh chàng Hoa Thanh Quế</p>
