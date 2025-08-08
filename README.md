@@ -18,6 +18,9 @@ Here are some ideas to get you started:
   <img width="488" height="371" alt="image" src="https://github.com/user-attachments/assets/463a9c16-6d6b-4052-8447-080328435690" />
 </p>
 
+<p align="right>Trích dẫn từ một câu nói kinh điển của 1 anh chàng Hoa Thánh</p>
+  
 <p align="center">
   <img width="485" height="448" alt="image" src="https://github.com/user-attachments/assets/b859e429-452d-46f6-90bc-8d55af4f727b" />
 </p>
+<p align="right>Trích dẫn từ 1 anh chàng Hoa Thanh Quế</p>
