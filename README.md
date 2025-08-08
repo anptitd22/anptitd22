@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  ![Download (1)](https://github.com/user-attachments/assets/43b4e42e-1665-4c01-b96c-7dc6df7a0a9b)
+  <img width="485" height="448" alt="image" src="https://github.com/user-attachments/assets/b859e429-452d-46f6-90bc-8d55af4f727b" />
 </p>
