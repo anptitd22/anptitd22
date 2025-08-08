@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  ![Download (1)](https://github.com/user-attachments/assets/ce6f23f5-00d1-49c1-8c2b-4f0186eb1756)
+  ![Download (1)](https://github.com/user-attachments/assets/43b4e42e-1665-4c01-b96c-7dc6df7a0a9b)
 </p>
